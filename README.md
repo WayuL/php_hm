@@ -1,3 +1,3 @@
 # php_hm
 php
-เริ่มรันจากhttp://www.localhost/php_homework/student.php
+เริ่มรันจากhttp://www.localhost/SIMS/student.php
